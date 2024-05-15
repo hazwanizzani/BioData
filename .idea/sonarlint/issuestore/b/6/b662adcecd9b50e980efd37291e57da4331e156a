@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í·òÕùÿÿÿÿ8Ø¶ø’ô1J$9f100ccc-cf74-47b5-a04d-1e8a20aa3ad3
+Ÿ
+java:S3008"WRename this field "MAX_CONTACTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¿ÜÅıÿÿÿÿ8Û¶ø’ô1J$76302bca-a5c4-46e9-99c3-8ffe9344c5ef
+}
+java:S1118":Add a private constructor to hide the implicit public one.(‹…¿¸8Ş¶ø’ô1J$b65428d4-ca4b-4567-a2d5-debd8364d672
+m	java:S106"+Replace this use of System.out by a logger.(ÏùŞÏ8¼µù’ô1J$6b67d7e4-1121-4b77-9428-f9ca058f2e29
+r	java:S106("+Replace this use of System.out by a logger.(·–øÿÿÿÿ8ùşı’ô1J$77855615-7187-41a1-b318-0d95b80d67d1
